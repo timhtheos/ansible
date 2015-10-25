@@ -1,0 +1,1 @@
+test-server-ansible ansible_ssh_host=209.208.109.206 ansible_ssh_user=root
